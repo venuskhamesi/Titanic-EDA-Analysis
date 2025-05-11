@@ -56,5 +56,4 @@ The goal of this project is to uncover survival patterns based on key features l
 
 If you'd like to discuss the project, collaborate, or just say hello:
 
-- 📧 Email: venuskhamesi@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/venuskhamesi](https://www.linkedin.com/in/venuskhamesi/)
